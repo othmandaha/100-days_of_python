@@ -1,1 +1,1 @@
-This repo Contains 100 main projects along with some exercices
+This repo Contains 100 projects in python along with some exercices

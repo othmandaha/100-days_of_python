@@ -13,7 +13,7 @@ def total(chosen_cards: list):
             total += 10
         elif i == "A":
             if total <= 10:
-                total += 11
+                total += 12
             else:
                 total += 1
         else:

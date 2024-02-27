@@ -4,7 +4,7 @@ This repo contains all the daily exercises and projects from the 100-day challen
 ## Instructor
 Dr. Angela Yu
 ## Projects
-The course is sill ongoin there will be *100 Poroject* at the end.
+The is sill ongoin, there will be *100 Poroject* at the end.
 
   - some of the projects are:
       - Password Generator

@@ -1,4 +1,4 @@
-# Blackjack Game
+# Blackjack Game 🎰🎲♠
 
 Welcome to the Blackjack Game! This Python console game simulates a simplified version of the classic card game Blackjack.
 

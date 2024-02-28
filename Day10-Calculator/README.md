@@ -1,4 +1,4 @@
-# Calculator Program
+# Calculator Program 🧮
 
 Welcome to the Calculator Program! This Python console program allows you to perform simple calculations such as addition, multiplication, subtraction, and division.
 

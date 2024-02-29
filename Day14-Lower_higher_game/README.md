@@ -7,10 +7,6 @@ Welcome to the Higher or Lower game! Test your instincts and guess which Instagr
 2. Type 'A' if you think the first account has more followers or 'B' if you think the second one does.
 3. Keep guessing correctly to increase your score!
 
-## Account Information 📷
-- Each account has a name, description, and country.
-- Use the hints provided to make an informed guess.
-
 ## Scoring System 🏆
 - Correct Guess: +1 point
 - Incorrect Guess: Game Over

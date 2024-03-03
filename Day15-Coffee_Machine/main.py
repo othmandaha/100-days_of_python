@@ -3,7 +3,6 @@ from art import logo
 from menu import MENU
 
 
-# TODO: resource checker
 def resource_checker(order, resources):
     """
     Checks if resources are enough.
@@ -22,7 +21,8 @@ def resource_checker(order, resources):
             return 1
         
     return 0
-# TODO: Mange_Resources() function.
+
+
 def resource_manager(order, resources):
     """
     Resource Managment function.
@@ -44,7 +44,7 @@ def resource_manager(order, resources):
         resources['money'] += MENU[order]['cost'] 
         return resources
 
-# TODO: Process_coins() function.
+
 def process_coins(inserted_coins):
     """processes the inserted coins
 
@@ -57,9 +57,7 @@ def process_coins(inserted_coins):
     total += inserted_coins['nickles'] * 0.05
     total += inserted_coins['dimes'] * 0.10
     total += inserted_coins['quarters'] * 0.25
-
     return total  
-
 
 
 def launch():

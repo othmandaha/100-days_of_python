@@ -102,7 +102,7 @@ window.title("Password Manager")
 window.config(padx=50, pady=50)
 
 #! Importing the image:
-lockImage = PhotoImage(file="Day30-Json_Exeptions\logo.png")
+lockImage = PhotoImage(file="./logo.png")
 
 #! setting the image canvas:
 ImageCanv = Canvas(width=250, height=200)

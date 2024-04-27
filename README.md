@@ -4,7 +4,7 @@ This repo contains all the daily exercises and projects from the 100-day challen
 ## Instructor
 Dr. Angela Yu
 ## Projects
-The is sill ongoin, there will be *100 Poroject* at the end.
+This is sill ongoin, there will be *100 Poroject* at the end.
 
   - some of the projects are:
       - Password Generator
@@ -14,4 +14,11 @@ The is sill ongoin, there will be *100 Poroject* at the end.
       - Calculator
       - BlackJack
       - Number Guessing game
+      - Snake Game
+      - Ping-Pong
+      - Coffee Machine
+      - Pomodoro App
+      - Password Manager
+      - Flash Cards App
+      - Birthday Email sender
       - And More...

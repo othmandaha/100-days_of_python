@@ -38,7 +38,7 @@ if is_rainy():
     message = client.messages.create(
         body="It's gonna rain, bring an umbrella ☔",
         from_='+14793163288',
-        to='+21266348423'
+        to='+1111111111111'
     )
     print(message.status)
 

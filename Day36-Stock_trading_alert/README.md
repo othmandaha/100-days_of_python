@@ -1,4 +1,4 @@
-# Day 35 - Stock Price Monitoring and News Alert System
+# Day 35 - Stock Trading Alert 
 
 ## Introduction
 This Python script monitors the stock price of a specified company and sends SMS alerts with recent news headlines if the stock price increases or decreases by 5%.
